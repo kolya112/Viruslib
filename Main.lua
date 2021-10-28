@@ -29,7 +29,7 @@ layout:addChild(GUI.text(11, 11, 0x4B4B4B, localization.infoapps))
 layout:addChild(GUI.text(12, 12, 0x4B4B4B, "Solaris virus | KKosty4ka"))
 layout:addChild(GUI.text(13, 13, 0x4B4B4B, "ScramDisk - ORIGINAL | KKosty4ka"))
 layout:addChild(GUI.text(14, 14, 0x4B4B4B, "Гоблинский перевод | KKosty4ka"))
-layout:addChild(GUI.text(15, 15, 0x33DB40, "Version 1.04 | Lase base update: 28.10.2021"))
+layout:addChild(GUI.text(15, 15, 0x33DB40, "Version 1.06 | Lase base update: 28.10.2021"))
 
 -- Customize MineOS menu for this application by your will
 menu:addItem("×").onTouch = function()
